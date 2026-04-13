@@ -57,7 +57,7 @@ Claude will:
 | Say | Claude does |
 |-----|-------------|
 | "帮我提交外链" / "Submit backlinks" | Guide config → start submitting |
-| "提交到所有免费站" / "Submit to all free sites" | Filter 486 targets → batch submit |
+| "提交到所有免费站" / "Submit to all free sites" | Filter 528 targets → batch submit |
 | "这个站能提交吗？[URL]" | Scout the site, analyze form |
 | "提交情况" / "Status" | Show submission history |
 | "帮我生成 awesome-list 提交" | Generate GitHub Issue body |
@@ -213,7 +213,7 @@ node src/cli.js submit https://any-site.com/submit --engine bb
 
 ### 8. Target Sites Database
 
-`targets.yaml` contains 486 directory sites. Filter by:
+`targets.yaml` contains 528 directory sites. Filter by:
 
 | Field | Values | Meaning |
 |-------|--------|---------|
@@ -297,7 +297,7 @@ ln -s ~/path/to/backlink-pilot ~/.openclaw/skills/backlink-pilot
 ```
 config.yaml              ← Your product config (gitignored, private)
 config.example.yaml      ← Template to copy from
-targets.yaml             ← 486 target sites with status metadata
+targets.yaml             ← 528 target sites with status metadata
 submissions.yaml         ← Auto-generated submission history
 
 src/cli.js               ← CLI entry point (all commands)

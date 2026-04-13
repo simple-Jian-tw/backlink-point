@@ -10,7 +10,7 @@
 
 > Built by an AI Agent ([OpenClaw](https://openclaw.ai)) during real-world link building — battle-tested on 30+ sites.
 
-**486 target sites** in [`targets.yaml`](targets.yaml) — 226 auto-submittable with bb-browser.
+**528 target sites** in [`targets.yaml`](targets.yaml) — 226 auto-submittable with bb-browser.
 
 ---
 
@@ -81,7 +81,7 @@ node src/batch-submit.js --limit N       # Batch blog comments
 ### Best channels by ROI
 
 1. **GitHub awesome-lists** — highest ROI, permanent, $0, 5 min each
-2. **Free directory sites** — 486 targets in `targets.yaml`, most auto-submittable
+2. **Free directory sites** — 528 targets in `targets.yaml`, most auto-submittable
 3. **Blog comments** — Website field backlinks, batch-automated
 
 ### Submission pace
@@ -126,7 +126,7 @@ backlink-pilot/
 ├── LICENSE
 ├── package.json
 ├── config.example.yaml        ← Config template
-├── targets.yaml               ← 486 target sites
+├── targets.yaml               ← 528 target sites
 │
 ├── docs/                      ← Documentation
 │   ├── index.md               ← Docs home (VitePress)

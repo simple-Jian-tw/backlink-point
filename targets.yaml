@@ -2204,6 +2204,28 @@ csv_high_quality_free:
   - { name: "ProvenExpert", submit_url: "https://www.provenexpert.com/", type: listing, auto: manual, lang: en, notes: "DR 91; source: backlinks.csv" }
   - { name: "Zoho Sites", submit_url: "https://www.zoho.com/sites/", type: listing, auto: manual, lang: en, notes: "DR 91; source: backlinks.csv" }
 
+csv_current_page_backlinks:
+  - { name: "TopAI.tools", submit_url: "https://topai.tools/", type: listing, auto: manual, lang: en, notes: "source: current-page-20260413-214407.csv" }
+  - { name: "BAI.tools", submit_url: "https://bai.tools/", type: listing, auto: manual, lang: en, notes: "source: current-page-20260413-214407.csv" }
+  - { name: "GPTDemo.Net", submit_url: "https://gptdemo.net/", type: listing, auto: manual, lang: en, notes: "source: current-page-20260413-214407.csv" }
+  - { name: "Top AI Hubs", submit_url: "https://topaihubs.com/", type: listing, auto: manual, lang: en, notes: "source: current-page-20260413-214407.csv" }
+  - { name: "EasyCloudSolutions News", submit_url: "https://news.easycloudsolutions.com/", type: article, auto: manual, lang: en, notes: "source: current-page-20260413-214407.csv" }
+  - { name: "AiToolHub.Net", submit_url: "https://aitoolhub.net/", type: listing, auto: manual, lang: en, notes: "source: current-page-20260413-214407.csv" }
+  - { name: "Wayfindio", submit_url: "https://wayfindio.com/", type: listing, auto: manual, lang: en, notes: "source: current-page-20260413-214407.csv" }
+  - { name: "TG Noisework", submit_url: "https://tg.noisework.cn/", type: article, auto: manual, lang: en, notes: "source: current-page-20260413-214407.csv" }
+  - { name: "Tactic Links", submit_url: "https://tacticlinks.com/", type: listing, auto: manual, lang: en, notes: "source: current-page-20260413-214407.csv" }
+  - { name: "Sechub", submit_url: "https://sechub.in/", type: listing, auto: manual, lang: en, notes: "source: current-page-20260413-214407.csv" }
+  - { name: "Rise of Machine", submit_url: "https://riseofmachine.com/", type: listing, auto: manual, lang: en, notes: "source: current-page-20260413-214407.csv" }
+  - { name: "DesignShidai", submit_url: "https://designshidai.com/", type: listing, auto: manual, lang: en, notes: "source: current-page-20260413-214407.csv" }
+  - { name: "Creati.ai", submit_url: "https://creati.ai/", type: listing, auto: manual, lang: en, notes: "source: current-page-20260413-214407.csv" }
+  - { name: "AI-Damn", submit_url: "https://ai-damn.com/", type: listing, auto: manual, lang: en, notes: "source: current-page-20260413-214407.csv" }
+  - { name: "AI Tool List", submit_url: "https://ai-tool-list.info/", type: listing, auto: manual, lang: en, notes: "source: current-page-20260413-214407.csv" }
+
+high_priority_platforms:
+  # Already present elsewhere in the repo: G2, Crunchbase, Medium, WordPress.com, Blogger
+  - { name: "Capterra", submit_url: "https://www.capterra.com/", type: listing, auto: manual, lang: en, notes: "High-priority SaaS platform; source: user shortlist" }
+  - { name: "Substack", submit_url: "https://substack.com/", type: listing, auto: manual, lang: en, notes: "High-priority publishing platform; source: user shortlist" }
+
 csv_texttoany_backlinks:
   - { name: "AI Song Maker | aifinderplus - AI Tools Directory", submit_url: "https://aifinderplus.com/item/ai-song-maker-aisongmakerart", type: listing, auto: manual, lang: en, notes: "source: texttoany.com-backlinks.csv" }
   - { name: "PromoteProject - Text To Any - PromoteProject | Startup Growth Platform", submit_url: "https://www.promoteproject.com/startup/194127/text-to-any", type: listing, auto: manual, lang: en, notes: "source: texttoany.com-backlinks.csv" }
