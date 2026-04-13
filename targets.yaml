@@ -1675,6 +1675,563 @@ awesome_lists:
     lang: zh
 
 # ============================================================
+# Notion Import / Notion 导入目录站
+# Imported from "100+ DIR | FREE" on 2026-04-06
+# ============================================================
+notion_free_directories:
+  - name: G2
+    submit_url: https://www.g2.com/products/new
+    type: form
+    auto: manual
+    lang: en
+
+  - name: AI Infinity
+    submit_url: https://forms.gle/Ze6pdWzmweCfKWnLA
+    type: form
+    auto: manual
+    lang: en
+
+  - name: Startup88
+    submit_url: https://startup88.typeform.com/to/CRjWqM
+    type: form
+    auto: manual
+    lang: en
+
+  - name: FinancesOnline
+    submit_url: https://financesonline.com/add-product/?ref=aidirectories
+    type: form
+    auto: manual
+    lang: en
+
+  - name: F6S
+    submit_url: https://www.f6s.com/?ref=aidirectori.es
+    type: form
+    auto: manual
+    lang: en
+
+  - name: Your Story
+    submit_url: https://eu.frms.link/g4juley/?ref=aidirecori.es
+    type: form
+    auto: manual
+    lang: en
+
+  - name: AlternativeTo
+    submit_url: https://alternativeto.net/manage-item/?ref=aidirectori.es
+    type: form
+    auto: manual
+    lang: en
+
+  - name: Crunchbase
+    submit_url: https://www.crunchbase.com/add-new/?ref=aidirectori.es
+    type: form
+    auto: manual
+    lang: en
+
+  - name: Crunchbase
+    submit_url: https://www.crunchbase.com/?ref=aidirectori.es
+    type: form
+    auto: manual
+    lang: en
+
+  - name: StackShare
+    submit_url: https://stackshare.io/submit/?ref=aidirectories
+    type: form
+    auto: manual
+    lang: en
+
+  - name: Digital Agency Network
+    submit_url: https://digitalagencynetwork.com/join-free-listing-tools/
+    type: form
+    auto: manual
+    lang: en
+
+  - name: EU Startups
+    submit_url: https://www.eu-startups.com/directory/?wpbdp_view=submit_listing
+    type: form
+    auto: manual
+    lang: en
+
+  - name: EU Startups
+    submit_url: https://www.eu-startups.com/
+    type: form
+    auto: manual
+    lang: en
+
+  - name: Software World
+    submit_url: https://www.softwareworld.co/vendor/listing/create/
+    type: form
+    auto: manual
+    lang: en
+
+  - name: Software World
+    submit_url: https://www.softwareworld.co/
+    type: form
+    auto: manual
+    lang: en
+
+  - name: Product Hunt
+    submit_url: https://www.producthunt.com/posts/new
+    type: form
+    auto: manual
+    lang: en
+
+  - name: SaaSWorthy
+    submit_url: https://www.saasworthy.com/offerings
+    type: form
+    auto: manual
+    lang: en
+
+  - name: GetLatka
+    submit_url: https://getlatka.com/saas-companies?ref=aidirectories
+    type: form
+    auto: manual
+    lang: en
+
+  - name: Sitelike
+    submit_url: https://www.sitelike.org/add-site/?ref=aidirectori.es
+    type: form
+    auto: manual
+    lang: en
+
+  - name: BetaList
+    submit_url: https://betalist.com/submissions/new
+    type: form
+    auto: manual
+    lang: en
+
+  - name: SaaSHub
+    submit_url: https://www.saashub.com/submit
+    type: form
+    auto: manual
+    lang: en
+
+  - name: SaaSHub
+    submit_url: https://www.saashub.com/
+    type: form
+    auto: manual
+    lang: en
+
+  - name: SideProjectors
+    submit_url: https://www.sideprojectors.com/
+    type: form
+    auto: manual
+    lang: en
+
+  - name: Startup Ranking
+    submit_url: https://www.startupranking.com/startup/create/url-validation?ref=aidirectori.es
+    type: form
+    auto: manual
+    lang: en
+
+  - name: Pitchwall
+    submit_url: https://pitchwall.co/product/submit?ref=aidirectories
+    type: form
+    auto: manual
+    lang: en
+
+  - name: Submission Web Directory
+    submit_url: https://www.submissionwebdirectory.com/submit.php
+    type: form
+    auto: manual
+    lang: en
+
+  - name: SoMuch
+    submit_url: https://somuch.com/submit-links/
+    type: form
+    auto: manual
+    lang: en
+
+  - name: SoMuch
+    submit_url: https://somuch.com/
+    type: form
+    auto: manual
+    lang: en
+
+  - name: GPTs Hunter
+    submit_url: https://www.gptshunter.com/submit-gpt?ref=aidirectori.es
+    type: form
+    auto: manual
+    lang: en
+
+  - name: GPTs Hunter
+    submit_url: https://www.gptshunter.com/?ref=aidirectori.es
+    type: form
+    auto: manual
+    lang: en
+
+  - name: KitPloit
+    submit_url: https://www.kitploit.com/p/submit-tool.html?ref=aidirectories
+    type: form
+    auto: manual
+    lang: en
+
+  - name: AffordHunt
+    submit_url: https://www.affordhunt.com/submit
+    type: form
+    auto: manual
+    lang: en
+
+  - name: AITOOLS
+    submit_url: https://aitools.inc/submit
+    type: form
+    auto: manual
+    lang: en
+
+  - name: FiveTaco
+    submit_url: https://fivetaco.com/submit
+    type: form
+    auto: manual
+    lang: en
+
+  - name: Uneed
+    submit_url: https://www.uneed.best/submit-a-tool
+    type: form
+    auto: manual
+    lang: en
+
+  - name: Launching Next
+    submit_url: https://www.launchingnext.com/submit/
+    type: form
+    auto: manual
+    lang: en
+
+  - name: Tool Pilot
+    submit_url: https://www.toolpilot.ai/pages/submit-your-ai-tool
+    type: form
+    auto: manual
+    lang: en
+
+  - name: Startup Base
+    submit_url: https://startupbase.io/submissions/start?ref=aidirectori.es
+    type: form
+    auto: manual
+    lang: en
+
+  - name: TechPluto
+    submit_url: https://www.techpluto.com/submit-startup?ref=aidirectori.es
+    type: form
+    auto: manual
+    lang: en
+
+  - name: EZWeb Directory
+    submit_url: http://ezwebdirectory.com/item/new
+    type: form
+    auto: manual
+    lang: en
+
+  - name: IsmailBlogger
+    submit_url: https://ismailblogger.com/submit-tools/?ref=aidirectori.es
+    type: form
+    auto: manual
+    lang: en
+
+  - name: Hacker News
+    submit_url: https://hackernews.com/
+    type: form
+    auto: manual
+    lang: en
+
+  - name: StartupTracker
+    submit_url: https://startuptracker.io/crowdsourcing/
+    type: form
+    auto: manual
+    lang: en
+
+  - name: Tiny Startups
+    submit_url: https://tally.so/r/wMzP8X
+    type: form
+    auto: manual
+    lang: en
+
+  - name: Tiny Startups
+    submit_url: https://www.tinystartups.co/?ref=aidirectori.es
+    type: form
+    auto: manual
+    lang: en
+
+  - name: 10015
+    submit_url: https://10015.io/product-finder/submit
+    type: form
+    auto: manual
+    lang: en
+
+  - name: Resource fyi
+    submit_url: https://resource.fyi/account/submit/?ref=aidirecori.es
+    type: form
+    auto: manual
+    lang: en
+
+  - name: Ben's Bites News
+    submit_url: https://news.bensbites.com/submit
+    type: form
+    auto: manual
+    lang: en
+
+  - name: Startup Buffer
+    submit_url: https://startupbuffer.com/site/submit
+    type: form
+    auto: manual
+    lang: en
+
+  - name: Startup Buffer
+    submit_url: https://startupbuffer.com/
+    type: form
+    auto: manual
+    lang: en
+
+  - name: AlterOpen
+    submit_url: https://alteropen.com/submit/pack?ref=aidirectori.es
+    type: form
+    auto: manual
+    lang: en
+
+  - name: AlterOpen
+    submit_url: https://alteropen.com/?ref=aidirectori.es
+    type: form
+    auto: manual
+    lang: en
+
+  - name: Launched
+    submit_url: https://launched.io/SubmitStartup
+    type: form
+    auto: manual
+    lang: en
+
+# ============================================================
+# Awesome Free SEO Backlinks / GitHub curated list import
+# Imported from https://github.com/EinGuterWaran/awesome-free-seo-backlinks
+# ============================================================
+awesome_free_seo_backlinks:
+  # 🔥 DR 90+
+  - { name: "AI Infinity", submit_url: "https://docs.google.com/forms/d/e/1FAIpQLSeuaZvj-s7KkI5Zp41q9LX0i9suH61c7JR2qe6sBdDtP9r9Sg/viewform", type: form, auto: manual, lang: en }
+  - { name: "Medium", submit_url: "https://medium.com/", type: form, auto: manual, lang: en }
+  - { name: "AI Tools Arena", submit_url: "https://www.addtoany.com/share", type: form, auto: manual, lang: en }
+  - { name: "AI Tools Neil Patel", submit_url: "https://aitools.neilpatel.com/submit", type: form, auto: manual, lang: en }
+  - { name: "G2", submit_url: "https://www.g2.com/add_product_requests/new", type: form, auto: manual, lang: en }
+  - { name: "Gartner", submit_url: "https://www.gartner.com/en/digital-markets/claim-profile", type: form, auto: manual, lang: en }
+
+  # 💎 DR 80–89
+  - { name: "ToolsFine", submit_url: "https://tally.so/r/3qVzOG", type: form, auto: manual, lang: en }
+  - { name: "Finances Online", submit_url: "https://financesonline.com/add-product/", type: form, auto: manual, lang: en }
+  - { name: "Geekwire", submit_url: "https://www.geekwire.com/submit-startup/", type: form, auto: manual, lang: en }
+  - { name: "DevPost", submit_url: "https://devpost.com/software/new", type: form, auto: manual, lang: en }
+  - { name: "F6S", submit_url: "https://www.f6s.com/", type: form, auto: manual, lang: en }
+  - { name: "AlternativeTo", submit_url: "https://alternativeto.net/manage-item/", type: form, auto: manual, lang: en }
+  - { name: "Stackshare", submit_url: "https://stackshare.io/submit/", type: form, auto: manual, lang: en }
+  - { name: "Hotfrog", submit_url: "https://admin.hotfrog.com/", type: form, auto: manual, lang: en }
+
+  # ⭐ DR 70–79
+  - { name: "Brownbook", submit_url: "https://www.brownbook.net/register/", type: form, auto: manual, lang: en }
+  - { name: "SoftwareSuggest", submit_url: "https://www.softwaresuggest.com/vendors", type: form, auto: manual, lang: en }
+  - { name: "Callupcontact", submit_url: "https://www.callupcontact.com/active/register/register.php", type: form, auto: manual, lang: en }
+  - { name: "Scoot", submit_url: "https://www.scoot.co.uk/add-listing", type: form, auto: manual, lang: en }
+  - { name: "Exact Seek", submit_url: "https://www.exactseek.com/add.html", type: form, auto: manual, lang: en }
+  - { name: "SoftwareWorld", submit_url: "https://www.softwareworld.co/register/", type: form, auto: manual, lang: en }
+  - { name: "Cybo", submit_url: "https://www.cybo.com/add-business/", type: form, auto: manual, lang: en }
+  - { name: "CompareCamp", submit_url: "https://comparecamp.com/request-a-review/", type: form, auto: manual, lang: en }
+  - { name: "Select Hub", submit_url: "https://pmo.selecthub.com/claim-your-product/...", type: form, auto: manual, lang: en }
+  - { name: "Allmyfaves", submit_url: "https://allmyfaves.com/", type: form, auto: manual, lang: en }
+  - { name: "Neustarlocaleze", submit_url: "https://www.neustarlocaleze.biz/manage/login?uri=%23/subscriptions/add", type: form, auto: manual, lang: en }
+  - { name: "Alternative", submit_url: "https://alternative.me/", type: form, auto: manual, lang: en }
+  - { name: "Hub Biz", submit_url: "https://hub.biz/business_registration/pick_domain?s=home", type: form, auto: manual, lang: en }
+  - { name: "Getlatka", submit_url: "https://getlatka.com/saas-companies", type: form, auto: manual, lang: en }
+  - { name: "Techbehemoths", submit_url: "https://techbehemoths.com/companies/get-listed", type: form, auto: manual, lang: en }
+
+  # ⚡ DR 60–69
+  - { name: "Featured Customers", submit_url: "https://www.featuredcustomers.com/", type: form, auto: manual, lang: en }
+  - { name: "HotVsNot", submit_url: "http://hotvsnot.com/Add-Site/Add-Site.aspx", type: form, auto: manual, lang: en }
+  - { name: "Land-book", submit_url: "https://land-book.com/websites/new", type: form, auto: manual, lang: en }
+  - { name: "Crowd Reviews", submit_url: "https://www.crowdreviews.com/", type: form, auto: manual, lang: en }
+  - { name: "Sitelike", submit_url: "https://www.sitelike.org/add-site/", type: form, auto: manual, lang: en }
+  - { name: "City Local Pro", submit_url: "https://citylocalpro.com/add-your-business", type: form, auto: manual, lang: en }
+  - { name: "Opendi", submit_url: "https://service.opendi.us/listings", type: form, auto: manual, lang: en }
+  - { name: "PeerSpot", submit_url: "https://www.peerspot.com/contact", type: form, auto: manual, lang: en }
+  - { name: "Bizhwy", submit_url: "https://www.bizhwy.com/addlisting.php", type: form, auto: manual, lang: en }
+  - { name: "Startup Ranking", submit_url: "https://www.startupranking.com/startup/create/url-validation", type: form, auto: manual, lang: en }
+  - { name: "Pitchwall", submit_url: "https://pitchwall.co/product/submit", type: form, auto: manual, lang: en }
+  - { name: "Sprout24", submit_url: "https://sprout24.com/submit/", type: form, auto: manual, lang: en }
+  - { name: "USA Listing Directory", submit_url: "https://www.usalistingdirectory.com/submit.php", type: form, auto: manual, lang: en }
+  - { name: "Dokey AI", submit_url: "https://dokeyai.com/submit", type: form, auto: manual, lang: en }
+
+  # 📉 DR 50–59
+  - { name: "AppAgg", submit_url: "https://appagg.com", type: form, auto: manual, lang: en }
+  - { name: "Devhunt", submit_url: "https://devhunt.org/account/tools/new", type: form, auto: manual, lang: en }
+  - { name: "KitPloit", submit_url: "https://www.kitploit.com/p/submit-tool.html", type: form, auto: manual, lang: en }
+  - { name: "SaaS AI Tools", submit_url: "https://saasaitools.com/submit/", type: form, auto: manual, lang: en }
+  - { name: "Directory Web Promotion", submit_url: "https://promotebusinessdirectory.com/submit.php", type: form, auto: manual, lang: en }
+  - { name: "FreeOnline", submit_url: "https://www.freeonline.org/segnala-un-sito/", type: form, auto: manual, lang: en }
+  - { name: "Weboworld", submit_url: "https://weboworld.com/user/create-listing/1", type: form, auto: manual, lang: en }
+  - { name: "EzWebDirectory", submit_url: "https://ezwebdirectory.com/item/new", type: form, auto: manual, lang: en }
+
+  # 📊 DR 40–49
+  - { name: "TechPluto", submit_url: "https://www.techpluto.com/submit-startup/", type: form, auto: manual, lang: en }
+  - { name: "Curated", submit_url: "https://www.curated.design/", type: form, auto: manual, lang: en }
+  - { name: "Marsx", submit_url: "https://marsx.dev/ai-startups/", type: form, auto: manual, lang: en }
+  - { name: "Alpha Digits", submit_url: "https://alphadigits.com/submit-app-for-review/", type: form, auto: manual, lang: en }
+  - { name: "Yookalo", submit_url: "https://posts.yookalo.com/list-an-ad-steps.php", type: form, auto: manual, lang: en }
+
+  # 📑 DR 30–39
+  - { name: "Fazier", submit_url: "https://fazier.com/launch", type: form, auto: manual, lang: en }
+  - { name: "Crazy About Startups", submit_url: "https://crazyaboutstartups.com/share-your-startup/", type: form, auto: manual, lang: en }
+  - { name: "Discover Cloud", submit_url: "https://www.discovercloud.com/campaign", type: form, auto: manual, lang: en }
+  - { name: "Project Hunt", submit_url: "https://projecthunt.me/", type: form, auto: manual, lang: en }
+  - { name: "ctrl alt", submit_url: "https://ctrlalt.cc/", type: form, auto: manual, lang: en }
+  - { name: "Laffaz", submit_url: "https://laffaz.com/submit-startup/", type: form, auto: manual, lang: en }
+  - { name: "Resource.fyi", submit_url: "https://resource.fyi/account/submit/", type: form, auto: manual, lang: en }
+  - { name: "9sites", submit_url: "https://9sites.net/addurl.php", type: form, auto: manual, lang: en }
+  - { name: "NaNAI", submit_url: "https://nanai.tools/", type: form, auto: manual, lang: en }
+  - { name: "AI Findy", submit_url: "https://aifindy.com/contacto/publica-tu-ia-en-aifindy/", type: form, auto: manual, lang: en }
+  - { name: "Ismailblogger", submit_url: "https://ismailblogger.com/submit-tools/", type: form, auto: manual, lang: en }
+  - { name: "Robin Good", submit_url: "https://tools.robingood.com/#", type: form, auto: manual, lang: en }
+  - { name: "Open Future", submit_url: "https://openfuture.ai/submit-tool", type: form, auto: manual, lang: en }
+  - { name: "Startupanz", submit_url: "https://startupanz.com/submit-my-startup-profile/", type: form, auto: manual, lang: en }
+  - { name: "GainWeb", submit_url: "https://gainweb.org/submit.php?LINK_TYPE=2", type: form, auto: manual, lang: en }
+  - { name: "The AI Exchange", submit_url: "mailto:hello@theaiexchange.com", type: article, auto: manual, lang: en }
+  - { name: "Startup Lister", submit_url: "https://startuplister.com/", type: form, auto: manual, lang: en }
+  - { name: "10words", submit_url: "https://portal.10words.io/submissions/submit", type: form, auto: manual, lang: en }
+  - { name: "Paggu", submit_url: "https://www.paggu.com/submit-your-startup/", type: form, auto: manual, lang: en }
+  - { name: "Promote Project", submit_url: "https://www.promoteproject.com/submit-startup", type: form, auto: manual, lang: en }
+  - { name: "Spiff.store", submit_url: "https://spiff.store/submit-tool/", type: form, auto: manual, lang: en }
+  - { name: "AIGCLIST", submit_url: "https://docs.google.com/forms/d/e/1FAIpQLSdg8qIBAmcvsiOz0j0j-JAdoo_ctKL27jGrttykmAclrTbbYA/viewform", type: form, auto: manual, lang: en }
+  - { name: "Saas Po", submit_url: "https://www.saaspo.com/submit", type: form, auto: manual, lang: en }
+  - { name: "onemilliondirectory", submit_url: "https://www.onemilliondirectory.com/submit", type: form, auto: manual, lang: en }
+  - { name: "What the AI", submit_url: "https://whattheai.tech/submit", type: form, auto: manual, lang: en }
+  - { name: "AI Tool Guru", submit_url: "https://aitoolguru.com/submit-ai-tool", type: form, auto: manual, lang: en }
+  - { name: "Cuspera", submit_url: "https://docs.google.com/forms/d/e/1FAIpQLSfWRgf6b8sNZnZj-0Je60H-5J5pHmYkM8uDgiFQi5Wfuzx7Xg/viewform?vc=0&c=0&w=1", type: form, auto: manual, lang: en }
+  - { name: "Startup Dope", submit_url: "https://onboarding.startupdope.com/product-submission-form/", type: form, auto: manual, lang: en }
+  - { name: "Anyfp", submit_url: "https://anyfp.com/contact/", type: form, auto: manual, lang: en }
+  - { name: "hunted.space", submit_url: "https://hunted.space/", type: form, auto: manual, lang: en }
+  - { name: "DevPages", submit_url: "https://www.devpages.io/submit-a-tool", type: form, auto: manual, lang: en }
+  - { name: "AI Valley", submit_url: "https://aivalley.ai/submit-tool", type: form, auto: manual, lang: en }
+  - { name: "AI Lib", submit_url: "https://ailib.ru/en/add-ai/free/", type: form, auto: manual, lang: en }
+
+  # 🟡 DR 20–29
+  - { name: "Toolfolio", submit_url: "https://toolfolio.io/submit-suggestion", type: form, auto: manual, lang: en }
+  - { name: "Productivity Directory", submit_url: "mailto:contact@productivity.directory", type: article, auto: manual, lang: en }
+  - { name: "IndieHackers", submit_url: "https://indiehackerstacks.com/me/products/-1", type: form, auto: manual, lang: en }
+  - { name: "TipSeason", submit_url: "https://tipseason.com/ai-tools/submit-free", type: form, auto: manual, lang: en }
+  - { name: "Surges", submit_url: "mailto:hi@surges.co", type: article, auto: manual, lang: en }
+  - { name: "Startup Roulette", submit_url: "https://startuproulette.com/promote-my-startup", type: form, auto: manual, lang: en }
+  - { name: "Fiddy", submit_url: "https://httboqu3t5a.typeform.com/to/nmt9wTHk?typeform-source=fiddy.co", type: form, auto: manual, lang: en }
+  - { name: "Promptzone", submit_url: "https://www.promptzone.com/", type: form, auto: manual, lang: en }
+  - { name: "Startup Stage", submit_url: "https://startupstage.app/startups/new", type: form, auto: manual, lang: en }
+  - { name: "Link Directory Listings", submit_url: "https://linkdirectorylistings.org/submit-site/", type: form, auto: manual, lang: en }
+  - { name: "Startup88", submit_url: "https://startup88.typeform.com/to/CRjWqM?typeform-source=startup88.com", type: form, auto: manual, lang: en }
+  - { name: "Bestwebsite", submit_url: "https://bestwebsites.info/en/submit", type: form, auto: manual, lang: en }
+  - { name: "Startups.fyi", submit_url: "https://tally.so/r/3lOGLk", type: form, auto: manual, lang: en }
+  - { name: "TheToolBus", submit_url: "https://www.thetoolbus.ai", type: form, auto: manual, lang: en }
+  - { name: "AI Gems", submit_url: "https://aigems.net/submit", type: form, auto: manual, lang: en }
+  - { name: "Startup Europe", submit_url: "https://startupeurope.net/", type: form, auto: manual, lang: en }
+  - { name: "Piseries", submit_url: "https://www.piseries.com/", type: form, auto: manual, lang: en }
+  - { name: "Owwly", submit_url: "https://owwly.com/account/product", type: form, auto: manual, lang: en }
+  - { name: "Yes Ramen", submit_url: "https://yesramen.com/new-feedback-quest", type: form, auto: manual, lang: en }
+  - { name: "GptDemo.Net", submit_url: "https://www.gptdemo.net/gpt/add-tool", type: form, auto: manual, lang: en }
+  - { name: "Orbic AI", submit_url: "https://orbic.ai/submit/tools", type: form, auto: manual, lang: en }
+  - { name: "Lachief", submit_url: "https://www.lachief.io/", type: form, auto: manual, lang: en }
+  - { name: "Awesome Indie", submit_url: "https://awesomeindie.com/submit", type: form, auto: manual, lang: en }
+
+  # 🔴 DR 10–19
+  - { name: "AI4 Tools", submit_url: "https://ai4.tools/", type: form, auto: manual, lang: en }
+  - { name: "The AI Navigator", submit_url: "https://www.theainavigator.com/submit-an-ai-tool", type: form, auto: manual, lang: en }
+  - { name: "BroUseAI", submit_url: "https://www.brouseai.com/submission/ai", type: form, auto: manual, lang: en }
+  - { name: "The AI Library", submit_url: "https://www.theailibrary.co/account/tools/new", type: form, auto: manual, lang: en }
+  - { name: "The AI Warehouse", submit_url: "https://inside.thewarehouse.ai/submissions", type: form, auto: manual, lang: en }
+  - { name: "Startupwizz", submit_url: "http://www.startupwizz.com/submit-a-startup/", type: form, auto: manual, lang: en }
+  - { name: "Taalk", submit_url: "https://taalk.com/submit-startup/", type: form, auto: manual, lang: en }
+  - { name: "Victrays", submit_url: "https://victrays.com/submit-ai-tool/", type: form, auto: manual, lang: en }
+  - { name: "Growth Boosters", submit_url: "https://growthboosters.com/product/add", type: form, auto: manual, lang: en }
+  - { name: "Startup Sea", submit_url: "http://www.startupsea.com/p/submit-startup.html", type: form, auto: manual, lang: en }
+  - { name: "AI Tools Guide", submit_url: "https://aitoolsguide.com/contact/", type: form, auto: manual, lang: en }
+  - { name: "The Warehouse AI", submit_url: "https://www.thewarehouse.ai/", type: form, auto: manual, lang: en }
+  - { name: "FeedMyStartup", submit_url: "https://feedmystartup.com/submit-your-startup/", type: form, auto: manual, lang: en }
+  - { name: "GPT Forge", submit_url: "https://docs.google.com/forms/d/e/1FAIpQLSdttwE4QP8PqoDzh36Q5NUok3BdUe33thDCQ5dT_RNY2goWvQ/viewform", type: form, auto: manual, lang: en }
+  - { name: "AI Awesome", submit_url: "https://www.aiawesome.com/", type: form, auto: manual, lang: en }
+  - { name: "FeedMyStartup - APP", submit_url: "https://feedmystartup.com/submit-your-app/", type: form, auto: manual, lang: en }
+  - { name: "AI Marketing Directory", submit_url: "https://www.aimarketing.directory/submit", type: form, auto: manual, lang: en }
+
+  # ⚪ DR < 10
+  - { name: "ProfitHunt", submit_url: "https://docs.google.com/forms/d/e/1FAIpQLSdcuIN_dg9Xes5f9kCXb-C_Th3DYJGKWafaBgXgZY7tcJxXMw/viewform", type: form, auto: manual, lang: en }
+  - { name: "AI Tools Bay", submit_url: "https://www.aitoolsbay.com/contact", type: form, auto: manual, lang: en }
+  - { name: "LitedAI", submit_url: "https://www.listedai.co/submit", type: form, auto: manual, lang: en }
+  - { name: "AIGeneration", submit_url: "https://www.theaigeneration.com/add/", type: form, auto: manual, lang: en }
+  - { name: "AI Tools Up", submit_url: "https://tally.so/r/nPpyBV", type: form, auto: manual, lang: en }
+  - { name: "Indie AI", submit_url: "https://www.indieai.co/", type: form, auto: manual, lang: en }
+
+# ============================================================
+# CSV High-Quality Free Picks / backlinks.csv curated import
+# Filtered from /Users/jian/Desktop/backlinks.csv
+# Criteria: free submission, not blocked, DR 91+, not already in targets
+# ============================================================
+csv_high_quality_free:
+  - { name: "Blogger", submit_url: "https://blogger.com/", type: listing, auto: manual, lang: en, notes: "DR 95; source: backlinks.csv" }
+  - { name: "Calendly", submit_url: "https://calendly.com/", type: listing, auto: manual, lang: en, notes: "DR 94; source: backlinks.csv" }
+  - { name: "GoDaddy Websites", submit_url: "https://godaddy.com/websites/", type: listing, auto: manual, lang: en, notes: "DR 94; source: backlinks.csv" }
+  - { name: "Weebly", submit_url: "https://weebly.com/", type: listing, auto: manual, lang: en, notes: "DR 94; source: backlinks.csv" }
+  - { name: "WordPress.com", submit_url: "https://wordpress.com/", type: listing, auto: manual, lang: en, notes: "DR 94; source: backlinks.csv" }
+  - { name: "Tumblr", submit_url: "https://www.tumblr.com/", type: listing, auto: manual, lang: en, notes: "DR 94; source: backlinks.csv" }
+  - { name: "Bandcamp", submit_url: "https://bandcamp.com/", type: listing, auto: manual, lang: en, notes: "DR 93; source: backlinks.csv" }
+  - { name: "Eventbrite", submit_url: "https://eventbrite.com/", type: listing, auto: manual, lang: en, notes: "DR 93; source: backlinks.csv" }
+  - { name: "IMDb", submit_url: "https://imdb.com/", type: listing, auto: manual, lang: en, notes: "DR 93; source: backlinks.csv" }
+  - { name: "Issuu", submit_url: "https://issuu.com/", type: listing, auto: manual, lang: en, notes: "DR 93; source: backlinks.csv" }
+  - { name: "Linktree", submit_url: "https://linktr.ee/", type: listing, auto: manual, lang: en, notes: "DR 93; source: backlinks.csv" }
+  - { name: "Twitch", submit_url: "https://twitch.tv/", type: listing, auto: manual, lang: en, notes: "DR 93; source: backlinks.csv" }
+  - { name: "Unsplash", submit_url: "https://unsplash.com/", type: listing, auto: manual, lang: en, notes: "DR 93; source: backlinks.csv" }
+  - { name: "TripAdvisor", submit_url: "https://www.tripadvisor.com/", type: listing, auto: manual, lang: en, notes: "DR 93; source: backlinks.csv" }
+  - { name: "Community IBM", submit_url: "https://community.ibm.com/", type: listing, auto: manual, lang: en, notes: "DR 92; source: backlinks.csv" }
+  - { name: "Envato", submit_url: "https://envato.com/", type: listing, auto: manual, lang: en, notes: "DR 92; source: backlinks.csv" }
+  - { name: "GitBook", submit_url: "https://gitbook.com/", type: listing, auto: manual, lang: en, notes: "DR 92; source: backlinks.csv" }
+  - { name: "Imgur", submit_url: "https://imgur.com/", type: listing, auto: manual, lang: en, notes: "DR 92; source: backlinks.csv" }
+  - { name: "Jimdo", submit_url: "https://jimdo.com/", type: listing, auto: manual, lang: en, notes: "DR 92; source: backlinks.csv" }
+  - { name: "Marketplace WHMCS", submit_url: "https://marketplace.whmcs.com/", type: listing, auto: manual, lang: en, notes: "DR 92; source: backlinks.csv" }
+  - { name: "Meetup", submit_url: "https://meetup.com/", type: listing, auto: manual, lang: en, notes: "DR 92; source: backlinks.csv" }
+  - { name: "Slideshare", submit_url: "https://slideshare.net/", type: listing, auto: manual, lang: en, notes: "DR 92; source: backlinks.csv" }
+  - { name: "SourceForge", submit_url: "https://sourceforge.net/", type: listing, auto: manual, lang: en, notes: "DR 92; source: backlinks.csv" }
+  - { name: "Webflow", submit_url: "https://webflow.io/", type: listing, auto: manual, lang: en, notes: "DR 92; source: backlinks.csv" }
+  - { name: "500px", submit_url: "https://500px.com/", type: listing, auto: manual, lang: en, notes: "DR 91; source: backlinks.csv" }
+  - { name: "ArtStation", submit_url: "https://artstation.com/", type: listing, auto: manual, lang: en, notes: "DR 91; source: backlinks.csv" }
+  - { name: "Calameo", submit_url: "https://calameo.com/", type: listing, auto: manual, lang: en, notes: "DR 91; source: backlinks.csv" }
+  - { name: "Evernote", submit_url: "https://evernote.com/", type: listing, auto: manual, lang: en, notes: "DR 91; source: backlinks.csv" }
+  - { name: "FlipHTML5", submit_url: "https://fliphtml5.com/", type: listing, auto: manual, lang: en, notes: "DR 91; source: backlinks.csv" }
+  - { name: "Giphy", submit_url: "https://giphy.com/", type: listing, auto: manual, lang: en, notes: "DR 91; source: backlinks.csv" }
+  - { name: "Moz", submit_url: "https://moz.com/", type: listing, auto: manual, lang: en, notes: "DR 91; source: backlinks.csv" }
+  - { name: "Redbubble", submit_url: "https://redbubble.com/", type: listing, auto: manual, lang: en, notes: "DR 91; source: backlinks.csv" }
+  - { name: "Strikingly", submit_url: "https://strikingly.com/", type: listing, auto: manual, lang: en, notes: "DR 91; source: backlinks.csv" }
+  - { name: "Upwork", submit_url: "https://upwork.com/", type: listing, auto: manual, lang: en, notes: "DR 91; source: backlinks.csv" }
+  - { name: "BuzzFeed", submit_url: "https://www.buzzfeed.com/", type: listing, auto: manual, lang: en, notes: "DR 91; source: backlinks.csv" }
+  - { name: "DeviantArt", submit_url: "https://www.deviantart.com/", type: listing, auto: manual, lang: en, notes: "DR 91; source: backlinks.csv" }
+  - { name: "Flipsnack", submit_url: "https://www.flipsnack.com/", type: listing, auto: manual, lang: en, notes: "DR 91; source: backlinks.csv" }
+  - { name: "PHPBB", submit_url: "https://www.phpbb.com/", type: listing, auto: manual, lang: en, notes: "DR 91; source: backlinks.csv" }
+  - { name: "ProvenExpert", submit_url: "https://www.provenexpert.com/", type: listing, auto: manual, lang: en, notes: "DR 91; source: backlinks.csv" }
+  - { name: "Zoho Sites", submit_url: "https://www.zoho.com/sites/", type: listing, auto: manual, lang: en, notes: "DR 91; source: backlinks.csv" }
+
+csv_texttoany_backlinks:
+  - { name: "AI Song Maker | aifinderplus - AI Tools Directory", submit_url: "https://aifinderplus.com/item/ai-song-maker-aisongmakerart", type: listing, auto: manual, lang: en, notes: "source: texttoany.com-backlinks.csv" }
+  - { name: "PromoteProject - Text To Any - PromoteProject | Startup Growth Platform", submit_url: "https://www.promoteproject.com/startup/194127/text-to-any", type: listing, auto: manual, lang: en, notes: "source: texttoany.com-backlinks.csv" }
+  - { name: "Text To Any 2026 News Review, Features and Pricing", submit_url: "https://aijet.cc/item/text-to-any", type: listing, auto: manual, lang: en, notes: "source: texttoany.com-backlinks.csv" }
+  - { name: "PoweredbyAI - Free ai tools | Text To Any", submit_url: "https://poweredbyai.app/project/text-to-any", type: listing, auto: manual, lang: en, notes: "source: texttoany.com-backlinks.csv" }
+  - { name: "Text To Any: A section that transforms text into multiple forms of AI platform such as images, voice, video - AI - Artificial Intelligence-1ai.net", submit_url: "http://www.1ai.net/en/49604.html", type: listing, auto: manual, lang: en, notes: "source: texttoany.com-backlinks.csv" }
+  - { name: "Text To Any：一键把文字变成图像、语音、视频甚至3D的全能型AI创作引擎 - 苏米客", submit_url: "http://www.xmsumi.com/detail/2524", type: listing, auto: manual, lang: zh, notes: "source: texttoany.com-backlinks.csv" }
+  - { name: "Text To Any @ The Hack Stack", submit_url: "https://thehackstack.com/product/6b176b19-4b55-484f-ac40-0db4da5546a9", type: listing, auto: manual, lang: en, notes: "source: texttoany.com-backlinks.csv" }
+  - { name: "إرسال رسالة نصية إلى أي - اصنع أي شيء بالكلمات فقط. | ProductHubX", submit_url: "http://producthubx.com/ar/product/text-to-any/152541", type: listing, auto: manual, lang: ar, notes: "source: texttoany.com-backlinks.csv" }
+  - { name: "Text To Any - Image Editing AI Tool - AIBestTop", submit_url: "https://aibesttop.com/item/text-to-any", type: listing, auto: manual, lang: en, notes: "source: texttoany.com-backlinks.csv" }
+  - { name: "Text To Any: prompt into images, videos, audio, music... - AIToolex", submit_url: "https://aitoolex.com/item/text-to-any", type: listing, auto: manual, lang: en, notes: "source: texttoany.com-backlinks.csv" }
+  - { name: "Text To Any — Turn Text Into Anything With AI is on AppRater", submit_url: "https://apprater.net/a/text-to-any-turn-text-into-anything-with-ai/", type: listing, auto: manual, lang: en, notes: "source: texttoany.com-backlinks.csv" }
+  - { name: "Text To Any | DeepLaunch.io", submit_url: "https://deeplaunch.io/product/text-to-any", type: listing, auto: manual, lang: en, notes: "source: texttoany.com-backlinks.csv" }
+  - { name: "DR Checker - 免费检查网站DR分数", submit_url: "https://drchecker.org/zh/domains/texttoany-com", type: listing, auto: manual, lang: zh, notes: "source: texttoany.com-backlinks.csv" }
+  - { name: "LayerIT - Competitors & Similar Startups | Innolope | Innolope", submit_url: "https://innolope.com/startup/6916170ff915b3ab4c7227af", type: listing, auto: manual, lang: en, notes: "source: texttoany.com-backlinks.csv" }
+  - { name: "Text To Any @ The Hack Stack", submit_url: "https://katiescourtsapartment.com/product/6b176b19-4b55-484f-ac40-0db4da5546a9", type: listing, auto: manual, lang: en, notes: "source: texttoany.com-backlinks.csv" }
+  - { name: "Launches in Last Month - Launches by UIComet", submit_url: "https://launches.uicomet.com/lists/last-month", type: listing, auto: manual, lang: en, notes: "source: texttoany.com-backlinks.csv" }
+  - { name: "Text to Any - NewTool - Rising Star Tools Directory", submit_url: "https://newtool.site/item/text-to-any", type: listing, auto: manual, lang: en, notes: "source: texttoany.com-backlinks.csv" }
+  - { name: "Text To Any — Turn Text Into Anything With AI | sharefast.co", submit_url: "https://sharefast.co/tools/texttoany-com", type: listing, auto: manual, lang: en, notes: "source: texttoany.com-backlinks.csv" }
+  - { name: "Tactic Links", submit_url: "https://tacticlinks.com/en/load/texttoany.com/", type: listing, auto: manual, lang: en, notes: "source: texttoany.com-backlinks.csv" }
+  - { name: "Text To Any — Turn Text Into Anything With AI", submit_url: "https://toolsaiapp.com/tool/text-to-any-convert-text-to-image-speech-video-more/", type: listing, auto: manual, lang: en, notes: "source: texttoany.com-backlinks.csv" }
+  - { name: "Text To Any - free alternatives of AI Tools - TopFreeAlternative", submit_url: "https://topfreealternative.com/detail/text-to-any/", type: listing, auto: manual, lang: en, notes: "source: texttoany.com-backlinks.csv" }
+  - { name: "Text To Any - UIUXDECK", submit_url: "https://uiuxdeck.com/item/text-to-any", type: listing, auto: manual, lang: en, notes: "source: texttoany.com-backlinks.csv" }
+  - { name: "Text To Any – Create Anything With Just Words. | What Launched Today", submit_url: "https://whatlaunched.today/launch/text-to-any", type: listing, auto: manual, lang: en, notes: "source: texttoany.com-backlinks.csv" }
+  - { name: "Text To Any | Rank Anything", submit_url: "https://www.rankanything.online/reviews/text-to-any-2YmgCOnFIj", type: listing, auto: manual, lang: en, notes: "source: texttoany.com-backlinks.csv" }
+  - { name: "Transform Your Text with Text to Any: Versatile AI Solutions | SeeWhatNewAI", submit_url: "https://www.seewhatnewai.com/text-to-any", type: listing, auto: manual, lang: en, notes: "source: texttoany.com-backlinks.csv" }
+
+# ============================================================
 # Reddit Subreddits / Reddit 子版块
 # Post manually, follow subreddit rules
 # ============================================================

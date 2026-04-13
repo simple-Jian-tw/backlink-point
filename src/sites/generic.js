@@ -5,41 +5,75 @@ import { withBrowser, delay } from '../browser.js';
 
 // Field detection patterns (reused from batch-submit.js proven selectors)
 const FIELD_PATTERNS = {
-  name: /name|title|product|app.?name|tool.?name/i,
-  url: /url|website|link|homepage|site/i,
+  name: /name|title|product|app.?name|tool.?name|tool\s*name/i,
+  url: /url|website|link|homepage|site|tool\s*url/i,
   email: /email|mail|e-mail/i,
-  description: /desc|description|about|summary|detail|intro/i,
+  description: /desc|description|about|summary|detail|intro|short/i,
 };
 
 const SUBMIT_PATTERNS = /submit|send|add|post|create|list|suggest|save/i;
 
 /**
  * Parse bb-browser snapshot output to find interactive elements
- * Snapshot format: lines like "@3 [textbox] Name ..." or "@7 [button] Submit"
+ * Snapshot format: lines like "textbox [ref=9] \\"Jane Doe\\"" or "button [ref=31] \\"Submit Tool\\""
  */
 function parseSnapshot(snapshot) {
   const fields = { name: null, url: null, email: null, description: null, submit: null };
   const lines = snapshot.split('\n');
+  const textboxes = [];
 
   for (const line of lines) {
-    const refMatch = line.match(/^.*?(@\d+)\s+\[(\w+)\]\s*(.*)$/);
+    // Match format: role [ref=N] "label"
+    const refMatch = line.match(/^(\w+)\s+\[ref=(\d+)\]\s+["']([^"]*)["']/);
     if (!refMatch) continue;
 
-    const [, ref, role, label] = refMatch;
+    const [, role, refNum, label] = refMatch;
+    const ref = `@${refNum}`;
     const labelLower = label.toLowerCase();
 
-    // Match input/textarea fields
-    if (role === 'textbox' || role === 'combobox') {
-      if (!fields.name && FIELD_PATTERNS.name.test(labelLower)) fields.name = ref;
-      else if (!fields.url && FIELD_PATTERNS.url.test(labelLower)) fields.url = ref;
-      else if (!fields.email && FIELD_PATTERNS.email.test(labelLower)) fields.email = ref;
-      else if (!fields.description && FIELD_PATTERNS.description.test(labelLower)) fields.description = ref;
+    // Collect textboxes for ordered matching
+    if (role === 'textbox') {
+      textboxes.push({ ref, label: labelLower, originalLabel: label });
     }
 
-    // Match submit button
-    if ((role === 'button' || role === 'link') && SUBMIT_PATTERNS.test(labelLower)) {
+    // Match submit button - look for specific submit patterns
+    if (role === 'button' && /submit|send|add.*tool|post/i.test(labelLower)) {
       if (!fields.submit) fields.submit = ref;
     }
+  }
+
+  // Match fields by analyzing placeholder text patterns
+  for (const tb of textboxes) {
+    const label = tb.label;
+    
+    // URL field detection - URL-like placeholder
+    if (!fields.url && (label.includes('http') || label.includes('example.com') || label.includes('url'))) {
+      fields.url = tb.ref;
+    }
+    // Email field detection
+    else if (!fields.email && (label.includes('@') || label.includes('email') || /^\S+@\S+\.\S+$/.test(tb.originalLabel))) {
+      fields.email = tb.ref;
+    }
+    // Description field - longer placeholder text
+    else if (!fields.description && (label.includes('desc') || label.includes('brief') || label.includes('what') || tb.originalLabel.length > 20)) {
+      fields.description = tb.ref;
+    }
+    // Name field - first textbox that looks like a name (often has example like "Jane Doe")
+    else if (!fields.name && (label.includes('name') || label.includes('chatgpt') || label.includes('tool') || /^[A-Z][a-z]+\s[A-Z][a-z]+$/.test(tb.originalLabel))) {
+      fields.name = tb.ref;
+    }
+  }
+
+  // Fallback: assign remaining textboxes by position if still missing
+  if (textboxes.length >= 4) {
+    if (!fields.name) fields.name = textboxes[1].ref;  // 2nd textbox is usually tool name
+    if (!fields.url) fields.url = textboxes[2].ref;    // 3rd textbox is usually URL
+    if (!fields.description) fields.description = textboxes[3].ref;  // 4th textbox is usually description
+    if (!fields.email && textboxes.length > 4) fields.email = textboxes[4].ref;  // 5th is email
+  } else if (textboxes.length >= 3) {
+    if (!fields.name) fields.name = textboxes[0].ref;
+    if (!fields.url) fields.url = textboxes[1].ref;
+    if (!fields.description) fields.description = textboxes[2].ref;
   }
 
   return fields;

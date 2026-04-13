@@ -1,18 +1,55 @@
+# Dependencies
 node_modules/
-dist/
-submissions.yaml
+
+# Build output
+/dist/
+coverage/
+.nyc_output/
+docs/.vitepress/dist/
+docs/.vitepress/cache/
+
+# Local product and environment config
 config.yaml
 config.yml
 backlink-pilot.yaml
 .env
-screenshots/
-*.log
-.DS_Store
+.env.*
+!.env.example
+.Codex-local.md
+.claude-local.md
+
+# Runtime data and logs
+submissions.yaml
 logs/
+*.log
+screenshots/
+scratch/
+tmp/
 tmp_*
 test_*
+
+# Local resource inputs
+resources/backlink-resources.json
 resources/sites.json
+resources/notion-free-directories.json
+
+# Browser automation state
+.bb-browser/
+.browser-use/
+.chrome-profile-copy/
+.playwright-mcp/
+chrome-profile/
+.npm/
+
+# IDE and OS files
+.idea/
+.DS_Store
+
+# Captcha and temporary image artifacts
+.captcha-*.png
+.tmp-*.png
+*-current.png
+*-current-processed.png
+
+# Archived local work
 bak/
-.claude-local.md
-docs/.vitepress/dist/
-docs/.vitepress/cache/

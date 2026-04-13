@@ -9,7 +9,12 @@ export function loadTracker() {
   if (!existsSync(TRACKER_FILE)) {
     return { submissions: [] };
   }
-  return parse(readFileSync(TRACKER_FILE, 'utf-8')) || { submissions: [] };
+  const data = parse(readFileSync(TRACKER_FILE, 'utf-8'));
+  // Handle both array format and object format
+  if (Array.isArray(data)) {
+    return { submissions: data };
+  }
+  return data || { submissions: [] };
 }
 
 export function saveTracker(data) {
